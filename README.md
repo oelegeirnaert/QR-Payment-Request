@@ -47,7 +47,7 @@ pip install schwifty
 
 * **Oele Geirnaert** - *Initial work* - (https://github.com/oelegeirnaert)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/oelegeirnaert/QR-Payment-Request/contributors) who participated in this project.
 
 ## License
 
