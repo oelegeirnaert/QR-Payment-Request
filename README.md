@@ -5,7 +5,9 @@
 This project will help you generate a QR code for a payment request.
 
 Scan one of the following QR Codes to see the result.
+
 ![Alt text](qr_examples/qr_with_branding.jpg?raw=true "QR With Branding")
+
 ![Alt text](qr_examples/qr_without_branding.jpg?raw=true "QR Without Branding")
 
 It will open your banking app and request you to pay.
@@ -43,7 +45,7 @@ pip install schwifty
 
 ## Authors
 
-* **Oele Geirnaert** - *Initial work* - [PurpleBooth](https://github.com/oelegeirnaert)
+* **Oele Geirnaert** - *Initial work* - (https://github.com/oelegeirnaert)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
