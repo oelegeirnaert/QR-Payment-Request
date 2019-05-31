@@ -2,7 +2,7 @@
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](http://buymeacoff.ee/oelegeirnaert)
 
-This project will help you generate a QR code for a payment request.
+This project will help you generate a QR code for a payment request making use of http://scan2pay.info
 
 Scan one of the following QR Codes to see the result.
 
