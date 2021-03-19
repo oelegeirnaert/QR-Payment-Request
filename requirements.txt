@@ -1,4 +1,4 @@
 coverage==4.5.3
-Pillow==5.4.1
+Pillow==8.1.1
 requests==2.21.0
 schwifty==2018.9.1
